@@ -364,6 +364,7 @@
 "Assets/EasyStart Third Person Controller/Scripts/Commenteds/CommentedCameraController.cs"
 "Assets/EasyStart Third Person Controller/Scripts/Commenteds/CommentedThirdPersonController.cs"
 "Assets/EasyStart Third Person Controller/Scripts/ThirdPersonController.cs"
+"Assets/MeshCombiner/Scripts/MeshCombiner.cs"
 -langversion:9.0
 
 /deterministic
